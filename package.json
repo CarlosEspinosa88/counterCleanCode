@@ -2,7 +2,7 @@
   "name": "typescript-with-jack-herrington",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/CarlosEspinosa88/counterCleanCode.git",
+  "repository": "https://github.com/CarlosEspinosa88/typescript-with-jack-herrington.git",
   "author": "Carlos Espinosa <carloespinosa88@gmail.com>",
   "license": "MIT",
   "scripts": {
