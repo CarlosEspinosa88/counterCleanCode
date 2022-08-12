@@ -1,4 +1,13 @@
 {
+  "name": "typescript-with-jack-herrington",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CarlosEspinosa88/counterCleanCode.git",
+  "author": "Carlos Espinosa <carloespinosa88@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "npx ts-node index.ts"
+  },
   "dependencies": {},
   "devDependencies": {
     "ts-node": "^10.9.1",
